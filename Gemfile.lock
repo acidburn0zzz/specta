@@ -16,7 +16,7 @@ GEM
     minitest (5.8.4)
     nokogiri (1.6.7.2)
       mini_portile2 (~> 2.0.0.rc2)
-    rake (10.4.2)
+    rake (12.3.3)
     rouge (1.10.1)
     slather (2.0.1)
       clamp (~> 0.6)
